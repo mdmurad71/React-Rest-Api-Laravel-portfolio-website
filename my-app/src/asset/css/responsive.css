@@ -1,0 +1,61 @@
+@media (max-width: 575.98px) { 
+    .topTittle{font-size: 32px !important;}
+    .topSubTittle{font-size: 20px!important;}
+    .mainTittle{font-size: 25px!important;}
+    .loading_animation{width: 50px!important; height: 50px!important; }
+    h2{font-size: 20px!important;}
+    .serviceMainTitle{font-size: 25px!important;}
+    .CountNumber{font-size:30px!important;}
+    .CountTittle{font-size: 18px!important;}
+    .CountSection{margin-top: 10%!important;}
+    .SummaryBannerOverlay {min-height: 460px!important;}
+    .SummaryBanner{min-height: 460px!important;}
+    .workCard{ margin-top: 5% !important; padding: 5px 5px 5px 5px !important;}
+    .courseDetails{padding-bottom: 5px !important;}
+    .videoTitle{font-size: 25px !important; }
+    h1{font-size: 25px!important;}
+
+    
+
+
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .topTittle{font-size: 36px !important;}
+    .topSubTittle{font-size: 22px!important;}
+    .mainTittle{font-size: 30px!important;}
+    .loading_animation{width: 60px!important; height: 60px!important; }
+    h2{font-size: 22px!important;}
+    .serviceMainTitle{font-size: 30px!important;}
+    .CountNumber{font-size:35px!important;}
+    .CountTittle{font-size: 22px!important;}
+    .CountSection{margin-top: 10%!important;}
+    .SummaryBannerOverlay {min-height: 460px!important;}
+    .SummaryBanner{min-height: 460px!important;}
+    .workCard{ margin-top: 5% !important; padding: 5px 5px 5px 5px !important;}
+    .videoTitle{font-size: 30px !important; }
+    h1{font-size: 30px!important;}
+
+
+
+
+
+
+
+
+
+
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+@media (min-width: 1200px) { 
+
+ }

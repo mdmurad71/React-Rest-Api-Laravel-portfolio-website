@@ -1,0 +1,5 @@
+db name:mdmuradc_site
+
+user name:mdmuradc_siteuser
+
+password: 7_LpZjZve)Ae
