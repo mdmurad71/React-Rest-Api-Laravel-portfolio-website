@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('/contactList', 'ContactController@contactList');
+Route::post('/contactDelete', 'ContactController@contactDelete');
 
 
 
