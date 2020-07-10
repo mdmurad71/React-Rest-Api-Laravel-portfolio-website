@@ -43,6 +43,8 @@ class Menu extends Component {
                     <NavLink><Link className="my-0 p-2 text-white" to="/project"> <FontAwesomeIcon icon={faHome} /> Projects</Link></NavLink>
                     <NavLink><Link className="my-0 p-2 text-white" to="/service"> <FontAwesomeIcon icon={faHome} /> Services</Link></NavLink>
                     <NavLink><Link className="my-0 p-2 text-white" to="/review"> <FontAwesomeIcon icon={faHome} /> Review</Link></NavLink>
+                     <a className="my-0 p-2 text-white" href="/LoginPage"> <FontAwesomeIcon icon={faHome} /> Sign Out</a>
+
                     </div>
 
                     <div onClick={this.showHideSideNav} className={this.state.mainDivOverlay}>
